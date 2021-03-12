@@ -1,2 +1,1 @@
-# trendAI
-Trend Analysis on Artificial Intelligence Patents
+# Trend Analysis on Artificial Intelligence Patents
